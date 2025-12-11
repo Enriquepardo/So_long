@@ -1,19 +1,19 @@
-### 🎮 So_long 🎮
+## 🎮 So_long 🎮
 This project is a small 2D game. It is designed to make you work with textures and sprites, as well as some other basic gameplay elements.
 
-📌 Description
+### 📌 Description
 so_long is a small 2D game developed in C as a project at 42. The goal is to work with textures, sprites, map parsing, and basic gameplay elements. Players collect items on the map and reach the exit while avoiding obstacles. The project uses MiniLibX for rendering and event handling.
 
-📋 Objectives
+### 📋 Objectives
 - Learn to work with 2D maps and sprites in C.
 - Handle player movement and collision detection.
 - Parse and validate game maps from `.ber` files.
 - Manage game state and events using MiniLibX.
 - Respect the 42 coding norms, including memory management and code style.
 
-🚀 Usage
+###🚀 Usage
 
-📥 Compilation
+###📥 Compilation
 To compile the project, use the provided Makefile:
 
 ```bash
@@ -25,14 +25,14 @@ This will generate the executable:
 ./so_long
 ```
 
-📂 Running the Game
+###📂 Running the Game
 Run the game with a valid .ber map:
 
 ```bash
 ./so_long maps/map.ber
 ```
 
-Controls:
+### Controls:
 
 W or ↑ : Move up
 
