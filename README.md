@@ -1,5 +1,4 @@
 # 🎮 So_long 🎮
-This project is a small 2D game. It is designed to make you work with textures and sprites, as well as some other basic gameplay elements.
 
 ### 📌 Description
 so_long is a small 2D game developed in C as a project at 42. The goal is to work with textures, sprites, map parsing, and basic gameplay elements. Players collect items on the map and reach the exit while avoiding obstacles. The project uses MiniLibX for rendering and event handling.
