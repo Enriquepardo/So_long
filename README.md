@@ -11,9 +11,9 @@ so_long is a small 2D game developed in C as a project at 42. The goal is to wor
 - Manage game state and events using MiniLibX.
 - Respect the 42 coding norms, including memory management and code style.
 
-###🚀 Usage
+### 🚀 Usage
 
-###📥 Compilation
+### 📥 Compilation
 To compile the project, use the provided Makefile:
 
 ```bash
@@ -25,7 +25,7 @@ This will generate the executable:
 ./so_long
 ```
 
-###📂 Running the Game
+### 📂 Running the Game
 Run the game with a valid .ber map:
 
 ```bash
