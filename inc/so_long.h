@@ -6,7 +6,7 @@
 /*   By: enpardo- <enpardo-@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/12/15 10:46:30 by enpardo-          #+#    #+#             */
-/*   Updated: 2026/01/28 11:52:11 by enpardo-         ###   ########.fr       */
+/*   Updated: 2026/01/28 13:47:16 by enpardo-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,7 +68,8 @@ int     handle_input(int keysym, t_data *data);
 
 /* ================== MAP UTILS ================== */
 
-
+char		**read_map(char *file);
+static int	count_lines(char *file);
 
 /* ================== ERROR / FREE ================== */
 
